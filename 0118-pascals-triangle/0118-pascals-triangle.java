@@ -12,6 +12,7 @@ class Solution {
                 // Each element = sum of two elements above it
                 row.set(j, triangle.get(i - 1).get(j - 1) +
                            triangle.get(i - 1).get(j));  // j<i so if j = 2 then i = 3
+                           // taking the above row and setting the value of next row by adding and shit
             }
 
             // Add current row to the triangle
