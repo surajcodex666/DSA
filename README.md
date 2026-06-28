@@ -134,6 +134,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,6 +168,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/surajcodex666/DSA/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -177,4 +179,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
